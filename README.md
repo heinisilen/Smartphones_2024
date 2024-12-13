@@ -10,4 +10,4 @@ The data is retrieved from: https://www.kaggle.com/datasets/informrohit1/smartph
 . Key findings
 
 ## Notebook
-View the notebook: [analysis.ipynb](./analysis.ipynb)
+View the notebook: [Smartphones_2024.ipynb](./Smartphones_2024.ipynb)
